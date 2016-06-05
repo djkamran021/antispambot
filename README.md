@@ -1,4 +1,4 @@
-#SBSS Bot
+#shadows kk Bot
 
 * **تمامی پلاگین ها فارسی میباشند**
 
@@ -72,4 +72,4 @@
 
 #Wiki Soon...
 
-#Powered By [@SBSS_Team](telegram.me/Sbss_Team)
+#Powered By [@kamranya](telegram.me/kamranya)
