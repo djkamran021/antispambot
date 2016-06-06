@@ -336,6 +336,7 @@ _________________________________________
 _________________________________________
 ليست سودوها :@cyberprivacy
 @kamranya
+@shah_powerfull
 ]]
   }
   serialize_to_file(config, './data/config.lua')
